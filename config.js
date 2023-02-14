@@ -6,3 +6,4 @@ const contentCard = 'Haluuu Sóc... Thậc ra thì... anh cũm muốn nói lâu 
 const giftImage = 'Squirrel.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
+
